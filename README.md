@@ -1,5 +1,5 @@
 # 👋 Hey, I'm **Rohit Mehta**!  
-## 🚀 1st Year B.Tech Student | Aspiring Full Stack Web Developer  
+## 🚀 1st Year B.E Student | Aspiring Full Stack Web Developer  
 
 🌱 **Currently Learning:** Full Stack Web Development  
 💡 **Passionate About:** Building web apps & exploring new technologies  
